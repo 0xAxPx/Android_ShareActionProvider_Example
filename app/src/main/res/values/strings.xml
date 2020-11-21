@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="create_order">New Order</string>
+    <string name="action_share">Share</string>
+</resources>
